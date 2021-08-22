@@ -11,7 +11,9 @@ This is a landing page project for the first lesson ( JavaScript , DOM ) that us
 
 ## Project Tree
 
-Markup : 1. Css File 2. Js File 3. Webfonts File
+    1. Css File
+    2. Js File
+    3. Webfonts File
 
 ## You can find the Demo Link for Project
 
